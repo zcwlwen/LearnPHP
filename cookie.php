@@ -8,7 +8,6 @@
 
 
 function setcookie ($name, $value = null, $expire = null, $path = null, $domain = null, $secure = null, $httponly = null) {}
-
 /**
  * Send a cookie without urlencoding the cookie value
  * @link http://php.net/manual/en/function.setrawcookie.php
