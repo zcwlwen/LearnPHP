@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e560f3b-ee8f-46be-bc12-e5d38e75121c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cURLweather.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cURL.php" afterPath="$PROJECT_DIR$/cURL.php" />
-    </list>
+    <list default="true" id="5e560f3b-ee8f-46be-bc12-e5d38e75121c" name="Default" comment="" />
     <ignored path="LearnPHP.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -291,12 +287,12 @@
       <workItem from="1468388422356" duration="9717000" />
       <workItem from="1468556262068" duration="941000" />
       <workItem from="1471933626865" duration="16506000" />
-      <workItem from="1472197485276" duration="804000" />
+      <workItem from="1472197485276" duration="825000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27968000" />
+    <option name="totallyTimeSpent" value="27989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="146" y="213" width="1264" height="725" extended-state="0" />
