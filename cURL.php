@@ -21,3 +21,4 @@ curl_close($curlobj);
 
 //var_dump($output);
 echo  str_replace("百度",'屌丝',$output);
+
