@@ -21,6 +21,7 @@ function setcookie ($name, $value = null, $expire = null, $path = null, $domain 
  * @return bool true on success or false on failure.
  * @since 5.0
  */
+
 setcookie('test', time());
 ob_start();
 print_r($_COOKIE);
@@ -30,4 +31,3 @@ ob_clean();
 header("content-type:text/html; charset=utf-8");
 echo '当前的Cookie为：<br>';
 echo nl2br($content);
-
