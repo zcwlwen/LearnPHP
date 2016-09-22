@@ -18,8 +18,6 @@ class Human{
     }
 }
 
-
-
 class nbaPlayer extends Human{
 
 //    protected $team;
